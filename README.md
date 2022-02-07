@@ -1,8 +1,8 @@
-###Demo App Link
+<h1>Demo App Link</h1>
 
-<h2>https://picshare-social.netlify.app/</h2>
+<p>https://picshare-social.netlify.app/</p>
 
-##Technologies that I used 👨🏼‍💻
+<h2>Technologies that I used 👨🏼‍💻</h2>
 
 🔵 React
 🔴 Sanity
